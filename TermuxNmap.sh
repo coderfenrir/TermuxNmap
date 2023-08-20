@@ -1,5 +1,6 @@
 #!/bin/bash
 # 𝐜𝐨𝐝𝐞𝐝 𝐛𝐲 𝐜𝐨𝐝𝐞𝐫𝐟𝐞𝐧𝐫𝐢𝐫 ✓
+# uyarı! bazıları çalışmayabilir.
 
 # Renk kodları
 lightgreen="\e[1;32m"

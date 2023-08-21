@@ -1,6 +1,5 @@
-# termuxnmap
+# TermuxNmap
 
-# installation
 **git clone https://github.com/coderfenrir/termuxnmap**
 
 **cd termuxnmap/**

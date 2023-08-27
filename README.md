@@ -1,6 +1,6 @@
 # TermuxNmap
 
-**git clone https://github.com/coderfenrir/termuxnmap**
+```git clone https://github.com/coderfenrir/termuxnmap```
 
 **cd termuxnmap/**
 

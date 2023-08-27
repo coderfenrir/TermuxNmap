@@ -2,6 +2,6 @@
 
 ```git clone https://github.com/coderfenrir/termuxnmap```
 
-**cd termuxnmap/**
+```cd termuxnmap/```
 
-**bash TermuxNmap.sh**
+```bash TermuxNmap.sh```
